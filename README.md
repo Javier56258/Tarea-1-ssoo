@@ -9,7 +9,8 @@ Esta tarea consiste en generar una carrera de autos por consola de Linux utiliza
 ### Compilar:
 - Abre una terminal y navega al directorio donde se encuentran los archivos del programa desccargados.
 - Ejecuta el comando *make* para compilar el programa. Con eso se genera un nuevo archivo Tarea1SO.o
-  que puede ser borrado con ´´´ make clean ´´´
+  que puede ser borrado con
+  ```make clean 
 ### Ejecutar:
 - Con las instrucciones anteriores cumplidas ya se puede ejecutar la carrera. Esto se hace especificando 2 argumentos que son la cantidad de metros y cantidad de autos respectivamente
 - Ejemplo: ./tarea1ssoo 100 5
